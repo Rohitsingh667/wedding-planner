@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Wedding Planner",
+    "slug": "wedding-planner-expo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "updates": { "fallbackToCacheTimeout": 0 },
+    "assetBundlePatterns": ["**/*"],
+    "ios": { "supportsTablet": true },
+    "android": {},
+    "extra": {}
+  }
+}
